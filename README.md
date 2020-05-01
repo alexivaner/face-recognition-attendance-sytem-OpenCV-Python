@@ -22,7 +22,7 @@ We modified this face recognition code from pyimagesearch to satisfied our requi
  [Farhan Tandia](https://github.com/farhantandia)<br>
  Christian NP
   
- 
+ ### Download our proposal and powerpoint slide here
  [Proposal Summary](https://github.com/alexivaner/face-recognition-attendance-sytem-OpenCV-Python/raw/master/hw5_0860810_0860812_0860814.pdf)
  
   [Powerpoint Presentation](https://github.com/alexivaner/face-recognition-attendance-sytem-OpenCV-Python/raw/master/Slide_0860810_0860812_0860814.pdf)
