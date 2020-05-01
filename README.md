@@ -5,7 +5,7 @@
 
 [Intro.pdf](https://alexivaner.github.io/Slide_0860810_0860812_0860814.pdf)
 
-https://docs.google.com/viewer?url=${https://alexivaner.github.io/Slide_0860810_0860812_0860814.pdf}
+https://docs.google.com/viewer?url=https://alexivaner.github.io/Slide_0860810_0860812_0860814.pdf
 
 
 <embed src="https://alexivaner.github.io/Slide_0860810_0860812_0860814.pdf" />
