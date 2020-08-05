@@ -4,12 +4,9 @@
  This is prototype of Face Recognition for attendance system.<br>
  The project made as the requirement of Intelligence Computational Algorithm courses in NCTU.<br>
  
- ![Screenshot1](https://github.com/alexivaner/alexivaner.github.io/raw/master/OpenCV-Attendance-FaceRecognition/Annotation%202020-05-01%20123752.png)
+ ![Screenshot1](https://github.com/alexivaner/face-recognition-attendance-sytem-OpenCV-Python/blob/master/Screenshot1.png)
  
-  ![Screenshot2](https://github.com/alexivaner/alexivaner.github.io/raw/master/OpenCV-Attendance-FaceRecognition/Annotation%202020-05-01%20123817.png)
-  
- ![Screenshot3](https://github.com/alexivaner/alexivaner.github.io/raw/master/OpenCV-Attendance-FaceRecognition/Annotation%202020-05-01%20123835.png)
- <br>
+
  
  ## Model
 This project is using Open Face Model and Support Vector Machine<br>
